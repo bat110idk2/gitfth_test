@@ -13,4 +13,5 @@ dev
 
 local update
 local - update
+local - update
 
