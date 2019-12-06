@@ -8,3 +8,4 @@ mid - update
 mid - update
 
 mega - update
+github - update
